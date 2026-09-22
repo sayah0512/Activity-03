@@ -1,4 +1,4 @@
-# Activity-003
+# Activity-03
 Syncing Github account to VSCode.
 
 Github Account:
